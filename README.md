@@ -311,3 +311,6 @@ buenas prácticas:
 
 ------------------------------------------------------------------------
 
+## 🧑‍💻 Autor
+**Jesús Martínez**  
+Proyecto académico realizado con fines educativos para reforzar el aprendizaje de **Polimorfismo y Abstracción en Java**.
